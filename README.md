@@ -2,7 +2,7 @@
 
 This library is a template for building UI library npm package with **Vite Library mode** and supercharged with Tailwind CSS.
 
-Please check this 👉 [blog post](https://nuri.gg/vite-react-typescript-tailwind-npm-package) 👈 for a step by step walkthrough on how this library is built.
+Please check this 👉 [blog post](https://nuri.al/vite-react-typescript-tailwind-npm-package) 👈 for a step by step walkthrough on how this library is built.
 
 The components are located in the `lib` folder. 
 
